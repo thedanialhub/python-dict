@@ -1,6 +1,6 @@
 # Python Dict 🧠
 
-A lightweight graphical dictionary tool for Persian/English words built with Tkinter.
+A lightweight graphical dictionary tool for French/English words built with Tkinter.
 
 **GitHub Repository:** [https://github.com/thedanialhub/python-dict](https://github.com/thedanialhub/python-dict)
 
